@@ -125,7 +125,7 @@ for (int i = 0; i < array.length; i++)
 > fizzBuzz(21)
 Fizz
 
-> fizzBuzz(18)
+> fizzBuzz(25)
 Buzz
 
 > fizzBuzz(45)
